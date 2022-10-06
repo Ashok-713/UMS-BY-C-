@@ -20,3 +20,7 @@ This Repository consist of following :
 -   Student & Faculty Login
     -  Results
     -   Details
+    
+<b> This Project is fully tested on Dev C++ IDE  software <b>
+   -  Use Dev C++ to Run This Project code
+ 
