@@ -1,10 +1,9 @@
- *******University-Management-System**********
-<b>  University Management Application build with C++ </b>
+ 
+<b> UNIVERSITY MANAGEMENT SYSTEM </b>
 
 This Repository consist of following :
 
 -   APPLICATION FOLDER which consists of Main Application, class file, object file & all the text Files
--   PRESENTATION on Project
 -   Image having ASCII Codes
 
 
